@@ -1,5 +1,5 @@
 ### Progress Tracker
-[**Main page**](https://github.com/portellam)
+[**Go to Main page**](https://github.com/portellam)
 
 #### Auto.X.Org
 - Status: Stable release
